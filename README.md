@@ -8,13 +8,13 @@ I also build AI into my projects (LLMs, reinforcement learning, computer vision)
 
 ### 🔧 Tech I work with
 
-**Languages:** Python · JavaScript · C# · SQL · Java
-**Frontend:** Vue 3 · Vite · Pinia · Vuetify · Ionic
-**Backend:** Node.js · Express · REST APIs · WebSockets · Socket.IO
-**Data:** PostgreSQL · MongoDB · MySQL
-**Industrial:** SNMP · SSH · TCP/IP · Moxa · Factory Acceptance Testing
-**AI:** Google Gemini API · Unity ML-Agents (PPO) · TensorFlow.js
-**Tools:** Docker · Docker Compose · nginx · Git · PyQt5 · Unity · Electron
+- **Languages:** Python · JavaScript · C# · SQL · Java
+- **Frontend:** Vue 3 · Vite · Pinia · Vuetify · Ionic
+- **Backend:** Node.js · Express · REST APIs · WebSockets · Socket.IO
+- **Data:** PostgreSQL · MongoDB · MySQL
+- **Industrial:** SNMP · SSH · TCP/IP · Moxa · Factory Acceptance Testing
+- **AI:** Google Gemini API · Unity ML-Agents (PPO) · TensorFlow.js
+- **Tools:** Docker · Docker Compose · nginx · Git · PyQt5 · Unity · Electron
 
 ### 🚀 Featured projects
 
