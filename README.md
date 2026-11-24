@@ -28,4 +28,4 @@ I also build AI into my projects (LLMs, reinforcement learning, computer vision)
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/pariskar-rijal-2b25a0257/) · Barcelona, Spain · English, Spanish, Catalan
+📄 [**Download my CV (PDF)**](./Pariskar_Rijal_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/pariskar-rijal-2b25a0257/) · pariskarr3@gmail.com · Barcelona, Spain · English, Spanish, Catalan
